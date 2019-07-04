@@ -37,5 +37,5 @@ $diff -Naur File1 File2 > patch.txt
 It will allways patch the first file from the diff command
 
 ```sh
-patch < patch.txt
+$patch < patch.txt
 ```
