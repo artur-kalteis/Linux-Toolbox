@@ -26,7 +26,7 @@ Klaus
 ```sh
 
 #difference between the files
-$diff file1 file2    
+$diff  File1 File2    
 
 # take a look at man diff for -Naur
 $diff -Naur File1 File2 > patch.txt  
